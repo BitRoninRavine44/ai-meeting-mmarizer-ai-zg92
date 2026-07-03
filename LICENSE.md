@@ -1,4 +1,4 @@
-# 
+# Officiel AI Meeting Notes Summarizer extensions. Avec réseaux de neurones et scalabilité de l'IA — optimisé pour des performances maximales.
 
 
 
